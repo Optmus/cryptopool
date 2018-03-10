@@ -1,0 +1,2 @@
+# cryptopool
+Cryptonight repository pool
